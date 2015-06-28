@@ -1,0 +1,11 @@
+{
+  "name": "node-ps",
+  "version": "0.0.1",
+  "description": "A cross-platform node module for listing and searching running processes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test mocha ./test"
+  },
+  "author": "fortruce",
+  "license": "ISC"
+}
